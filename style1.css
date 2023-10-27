@@ -1,0 +1,32 @@
+.body{
+    font-family: Arial;
+}
+.chat{
+    width: 280px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.chat .head-chat{
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    font: 14px Arial;
+}
+
+.chat .head-chat .logo-chat{
+    background-color: #FE5DA3;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 32px;
+    color: #fff;
+  }
+
+
+.chat .head-chat .name-chat{
+    display: inline-block;
+}
